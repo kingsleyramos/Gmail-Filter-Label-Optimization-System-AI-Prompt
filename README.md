@@ -1,4 +1,4 @@
-# Gmail Filter & Label Optimization System - AI Prompt
+# Gmail Filter & Label Optimization System
 
 ## Overview
 
@@ -924,9 +924,7 @@ Shall we continue with Food & Dining?"
 
 ---
 
-## Final Notes for AI Assistants
-
-When using this prompt:
+## Final Notes
 
 1. **Adapt to the user's technical level** - Some users want detailed explanations, others want quick results
 2. **Be patient with iterations** - Filter creation is inherently iterative; users will change their minds
